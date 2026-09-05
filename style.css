@@ -43,3 +43,5 @@ button{
 img{
   height: 100px; width: 100px;
 }
+input { color: #34d346; font-family: monospace; background-color: black;  border-radius: 9px 0 9px 0; max-width: 400px;  width: 90%; overflow-wrap: break-word; white-space: normal; font-size: 20px;
+}
