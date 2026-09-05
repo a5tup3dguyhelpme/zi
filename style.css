@@ -12,7 +12,9 @@ body{
     text-align: center;
     display: flex; 
     justify-content: center; 
-    align-items: center;     
+    align-items: center;   
+    flex-direction: column;  
+
 }
 input{
   transition: 3s;
@@ -37,4 +39,7 @@ p{
 }
 button{
   color: #46bd8d; font-family: monospace; background-color: black; border-color: #215741;
+}
+img{
+  height: 40px; width: 40px;
 }
