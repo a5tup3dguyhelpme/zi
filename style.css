@@ -1,0 +1,40 @@
+body{
+  background-image:  url(https://user-images.githubusercontent.com/43012445/105452071-411e4880-5c43-11eb-8ae2-4de61f310bf9.gif);
+  background-blend-mode: multiply;
+
+  
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  
+    min-height: 100vh;
+    margin: 0;
+    text-align: center;
+    display: flex; 
+    justify-content: center; 
+    align-items: center;     
+}
+input{
+  transition: 3s;
+}
+h1{
+  color: #34d346; font-family: monospace;
+}
+li{
+  color: #34d346; font-family: monospace;
+}
+h2{
+  color: #34d346; font-family: monospace;
+}
+p{
+  color: #34d346; font-family: monospace;
+}
+.no{
+  color: #34d346; font-family: monospace;
+   background-color: black; border-radius: 8px; border-color: #215741; padding: 12px 15px; 
+    font-size: 16px; outline: none; 
+    transition: 0.3s;
+}
+button{
+  color: #46bd8d; font-family: monospace; background-color: black; border-color: #215741;
+}
